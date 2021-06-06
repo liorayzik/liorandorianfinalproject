@@ -10,7 +10,7 @@ li{text-align: center;}
 </style>
 </head>
 <body>
-  <h3>Choose a singer!</h3>
+  <h3>Choose a singer:</h3>
   <form method="get">
     <input type="checkbox" name="author" value="justin bieber" id="myCheckbox1">justin
 	<label for="myCheckbox1"><img src="https://pbs.twimg.com/profile_images/3728552888/56787fabf148f1ec54024664e3d0103b.png" /></label>
